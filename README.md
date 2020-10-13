@@ -11,6 +11,7 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
       <li><a href='https://github.com/frederictwc/DogDetector'>DogDetector</a></li>
       <li><a href='https://github.com/frederictwc/HKPCFacialRecognition'>HKPCFacialRecognition</a></li>
     </ul>
+    </ul>
 </details>
 
 <details>
