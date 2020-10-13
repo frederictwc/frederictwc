@@ -1,12 +1,10 @@
-
 # Repo Index
 
-These are not all my projects.
-These are just the 79 projects that I enjoy the most and actively work to improve.
+Welcome to my profile. Listed below are all my Repos. Only public ones are viewable. 
 
 ### organized by topic
 
-<details><summary><strong style='font-size:2rem;'>web (13 projects)</strong></summary>
+<details><summary><strong style='font-size:2rem;'>Personal (?? projects)</strong></summary>
 
 <h3>tool</h3><ul>
 
@@ -26,22 +24,8 @@ These are just the 79 projects that I enjoy the most and actively work to improv
 
 <li><a href='https://github.com/schollz/zget'>zget</a>: zget is a mashup of curl and wget with torrenting and better interop with Windows. (go)</li>
 
-</ul><h3>package</h3><ul>
-
-<li><a href='https://github.com/schollz/httpfileserver'>httpfileserver</a>: Wrapper for Golang http.FileServer that is faster (serving from memory) and uses less bandwidth (gzips when possible). (go)</li>
-
-<li><a href='https://github.com/schollz/googleit'>googleit</a>: Get results from search engines. (go)</li>
-
-<li><a href='https://github.com/schollz/basicwebsocket'>basicwebsocket</a>: Copy-and-paste friendly practical implementation of websockets for Go. (go)</li>
-
-<li><a href='https://github.com/schollz/getlinks'>getlinks</a>: A simple Go library to get all the links from an HTML page. (go)</li>
-
-<li><a href='https://github.com/schollz/httppool'>httppool</a>: A simple way to spawn a pool of web clients. (go)</li>
-
-</ul>
-
 </details>
-<details><summary><strong style='font-size:2rem;'>math (2 projects)</strong></summary>
+<details><summary><strong style='font-size:2rem;'> Work (2 projects)</strong></summary>
 
 <h3>package</h3><ul>
 
