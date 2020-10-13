@@ -5,14 +5,18 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
 ### organized by topic
 
 <details>
-  <summary><strong style='font-size:2rem;'>Personal (?? projects)</strong></summary>
+  <summary><strong style='font-size:2rem;'>Personal</strong></summary>
     <ul>
-      <li><a href='https://github.com/frederictwc/HkPoliticalCompass'>HKPoliticalCompass</a>A political compass test for Hong Kong</li>
+      <li><a href='https://github.com/frederictwc/HkPoliticalCompass'>HKPoliticalCompass</a>: A political compass test for Hong Kong</li>
+      <li><a href='https://github.com/frederictwc/commands'>commands</a>: A List of useful commands</li>
+      <li><a href='https://github.com/frederictwc/HkPoliticalCompass'>HKPoliticalCompass</a>: A political compass test for Hong Kong</li>
+      <li><a href='https://github.com/frederictwc/LSTMPyTorch'>LSTMPyTorch</a>: A time series prediction model written in PyTorch</li>
+      
     </ul>
 </details>
 
 <details>
-  <summary><strong style='font-size:2rem;'>Work (?? projects)</strong></summary>
+  <summary><strong style='font-size:2rem;'>Work</strong></summary>
     <ul>
       <li><a href='https://github.com/frederictwc/DogDetector'>DogDetector</a></li>
       <li><a href='https://github.com/frederictwc/HKPCFacialRecognition'>HKPCFacialRecognition</a></li>
@@ -20,6 +24,11 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
       <li><a href='https://github.com/frederictwc/CV2Tracking'>CV2Tracking</a></li>
       <li><a href='https://github.com/frederictwc/HGCAPIs'>HGCAPIs</a></li>
       <li><a href='https://github.com/frederictwc/NvidiaDeepLearning'>NvidiaDeepLearning</a></li>
+      <li><a href='https://github.com/frederictwc/embeddedaccesscontrol_new'>embeddedaccesscontrol_new</a></li>
+      <li><a href='https://github.com/frederictwc/NanoDocker'>NanoDocker</a></li>
+      <li><a href='https://github.com/frederictwc/NvidiaDeepLearning'>light_rail_detection_system</a></li>
+      <li><a href='https://github.com/frederictwc/DatasetGenerator'>DatasetGenerator</a></li>
+      
     </ul>
 </details>
 
