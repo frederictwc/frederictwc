@@ -7,21 +7,19 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
 <details>
   <summary><strong style='font-size:2rem;'>Personal (?? projects)</strong></summary>
     <ul>
-      <li><a href='https://github.com/frederictwc/DogDetector'>DogDetector</a></li>
-      <li><a href='https://github.com/frederictwc/HKPCFacialRecognition'>HKPCFacialRecognition</a></li>
+      <li><a href='https://github.com/frederictwc/HkPoliticalCompass'>HKPoliticalCompass</a>A political compass test for Hong Kong</li>
     </ul>
 </details>
 
 <details>
-  <summary><strong style='font-size:2rem;'> Work (2 projects)</strong></summary>
-  <h3>package</h3><ul>
-    <li><a href='https://github.com/schollz/pake'>pake</a>: PAKE library for generating a strong secret between     parties over an insecure channel. (go)</li>
-
-   </ul><h3>tool</h3><ul>
-
-<li><a href='https://github.com/schollz/sundial'>sundial</a>: C program to get the next time of the sunset and sunrise. (c)</li>
-
-</ul>
-
+  <summary><strong style='font-size:2rem;'>Work (?? projects)</strong></summary>
+    <ul>
+      <li><a href='https://github.com/frederictwc/DogDetector'>DogDetector</a></li>
+      <li><a href='https://github.com/frederictwc/HKPCFacialRecognition'>HKPCFacialRecognition</a></li>
+      <li><a href='https://github.com/frederictwc/face_detection'>face_detection</a></li>
+      <li><a href='https://github.com/frederictwc/CV2Tracking'>CV2Tracking</a></li>
+      <li><a href='https://github.com/frederictwc/HGCAPIs'>HGCAPIs</a></li>
+      <li><a href='https://github.com/frederictwc/NvidiaDeepLearning'>NvidiaDeepLearning</a></li>
+    </ul>
 </details>
 
