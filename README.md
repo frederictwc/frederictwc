@@ -29,6 +29,6 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
       <li><a href='https://github.com/frederictwc/NvidiaDeepLearning'>light_rail_detection_system</a></li>
       <li><a href='https://github.com/frederictwc/DatasetGenerator'>DatasetGenerator</a></li>
       
-    </ul>
+
 </details>
 
