@@ -10,21 +10,10 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
 
 <li><a href='https://github.com/frederictwc/DogDetector'>DogDetector</a></li>
 
-<li><a href='https://github.com/schollz/linkcrawler'>linkcrawler</a>: Cross-platform persistent and distributed web crawler. (go)</li>
-
-<li><a href='https://github.com/schollz/crawdad'>crawdad</a>: Cross-platform persistent and distributed web crawler. (go)</li>
-
-<li><a href='https://github.com/schollz/readable'>readable</a>: Making web pages readable in a browser and in the command line . (go)</li>
-
-<li><a href='https://github.com/schollz/websitechanges'>websitechanges</a>: Change detection with a simple Python script to email you whenever a website changes. (python)</li>
-
-<li><a href='https://github.com/schollz/squirrel'>squirrel</a>: Like curl, or wget, but downloads directly go to a SQLite databse. (go)</li>
-
-<li><a href='https://github.com/schollz/browsersync'>browsersync</a>: A simple live-reloading tool for developing HTML. (go)</li>
-
-<li><a href='https://github.com/schollz/zget'>zget</a>: zget is a mashup of curl and wget with torrenting and better interop with Windows. (go)</li>
+<li><a href='https://github.com/frederictwc/HKPCFacialRecognition'>HKPCFacialRecognition</a></li>
 
 </details>
+
 <details><summary><strong style='font-size:2rem;'> Work (2 projects)</strong></summary>
 
 <h3>package</h3><ul>
