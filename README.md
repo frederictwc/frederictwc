@@ -12,7 +12,7 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
       <li><a href='https://github.com/frederictwc/HkPoliticalCompass'>HKPoliticalCompass</a>: A political compass test for Hong Kong</li>
       <li><a href='https://github.com/frederictwc/LSTMPyTorch'>LSTMPyTorch</a>: A time series prediction model written in PyTorch</li>
       
-    </ul>
+   
 </details>
 
 <details>
