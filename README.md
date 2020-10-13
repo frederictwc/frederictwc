@@ -5,9 +5,10 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
 ### organized by topic
 
 <details><summary><strong style='font-size:2rem;'>Personal (?? projects)</strong></summary>
-<h3>tool</h3><ul>
-<li><a href='https://github.com/frederictwc/DogDetector'>DogDetector</a></li>
-<li><a href='https://github.com/frederictwc/HKPCFacialRecognition'>HKPCFacialRecognition</a></li>
+  <h3>tool</h3>
+    <ul>
+      <li><a href='https://github.com/frederictwc/DogDetector'>DogDetector</a></li>
+      <li><a href='https://github.com/frederictwc/HKPCFacialRecognition'>HKPCFacialRecognition</a></li>
 </details>
 </ul>
 <details><summary><strong style='font-size:2rem;'> Work (2 projects)</strong></summary>
