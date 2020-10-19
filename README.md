@@ -9,10 +9,9 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
     <ul>
       <li><a href='https://github.com/frederictwc/HkPoliticalCompass'>HKPoliticalCompass</a>: A political compass test for Hong Kong</li>
       <li><a href='https://github.com/frederictwc/commands'>commands</a>: A List of useful commands</li>
-      <li><a href='https://github.com/frederictwc/HkPoliticalCompass'>HKPoliticalCompass</a>: A political compass test for Hong Kong</li>
       <li><a href='https://github.com/frederictwc/LSTMPyTorch'>LSTMPyTorch</a>: A time series prediction model written in PyTorch</li>
-      
-   
+      <li><a href='https://github.com/frederictwc/JuliaProject'>JuliaProject</a>: My first Julia project</li>
+      <li><a href='https://github.com/frederictwc/commands'>commands</a>: A List of useful commands</li>
 </details>
 
 <details>
@@ -29,6 +28,9 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
       <li><a href='https://github.com/frederictwc/NvidiaDeepLearning'>light_rail_detection_system</a></li>
       <li><a href='https://github.com/frederictwc/DatasetGenerator'>DatasetGenerator</a></li>
       <li><a href='https://github.com/frederictwc/NetworkCameraReader'>NetworkCameraReader</a></li>
+      <li><a href='https://github.com/frederictwc/CV2DNN'>CV2DNN</a></li>
+      <li><a href='https://github.com/frederictwc/light_rail_detection_system'>light_rail_detection_system</a></li>
+      
 
 </details>
 
