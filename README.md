@@ -14,7 +14,6 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
       <li><a href='https://github.com/frederictwc/PytorchCudaTensorboard'>PytorchCudaTensorboard</a>: A docker container that includes pytorch, cuda and tensorboard</li>
       <li><a href='https://github.com/frederictwc/time_series_prediction'>time_series_prediction</a>: An LSTM used for time series prediction in Tensorflow</li>
       <li><a href='https://github.com/frederictwc/betting'>betting</a>: A football odds prediction model</li>
-</details>
       <li><a href='https://github.com/frederictwc/bachelor_thesis'>bachelor_thesis</a>: A neural network to replace a fluid simulator</li>
 </details>
 <details>
