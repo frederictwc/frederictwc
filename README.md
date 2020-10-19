@@ -13,9 +13,10 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
       <li><a href='https://github.com/frederictwc/JuliaProject'>JuliaProject</a>: My first Julia project</li>
       <li><a href='https://github.com/frederictwc/PytorchCudaTensorboard'>PytorchCudaTensorboard</a>: A docker container that includes pytorch, cuda and tensorboard</li>
       <li><a href='https://github.com/frederictwc/time_series_prediction'>time_series_prediction</a>: An LSTM used for time series prediction in Tensorflow</li>
-      
+      <li><a href='https://github.com/frederictwc/betting'>betting</a>: A football odds prediction model</li>
 </details>
-
+      <li><a href='https://github.com/frederictwc/bachelor_thesis'>bachelor_thesis</a>: A neural network to replace a fluid simulator</li>
+</details>
 <details>
   <summary><strong style='font-size:2rem;'>Work</strong></summary>
     <ul>
@@ -34,6 +35,9 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
       <li><a href='https://github.com/frederictwc/light_rail_detection_system'>light_rail_detection_system</a></li>
       <li><a href='https://github.com/frederictwc/dahua_cam'>dahua_cam</a></li>
       <li><a href='https://github.com/frederictwc/jetson_inference_functions'>jetson_inference_functions</a></li>
+      <li><a href='https://github.com/frederictwc/miscellaneous'>miscellaneous</a></li>
+      <li><a href='https://github.com/frederictwc/streaming'>streaming</a></li>
+      <li><a href='https://github.com/frederictwc/realsense'>realsense</a></li>
       
 </details>
 
