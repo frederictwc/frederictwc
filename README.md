@@ -15,6 +15,7 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
       <li><a href='https://github.com/frederictwc/time_series_prediction'>time_series_prediction</a>: An LSTM used for time series prediction in Tensorflow</li>
       <li><a href='https://github.com/frederictwc/betting'>betting</a>: A football odds prediction model</li>
       <li><a href='https://github.com/frederictwc/bachelor_thesis'>bachelor_thesis</a>: A neural network to replace a fluid simulator</li>
+      <li><a href='https://github.com/frederictwc/TimeSeriesDataProcessing'>TimeSeriesDataProcessing</a>: A Jupyter notebook that visualizes and preprocesses data for time series prediction</li>
 </details>
 <details>
   <summary><strong style='font-size:2rem;'>Work</strong></summary>
