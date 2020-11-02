@@ -20,6 +20,7 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
 <details>
   <summary><strong style='font-size:2rem;'>Work</strong></summary>
     <ul>
+      <li><a href='https://github.com/frederictwc/TensorFlowObjectDetection'>TensorFlowObjectDetection</a></li>
       <li><a href='https://github.com/frederictwc/DogDetector'>DogDetector</a></li>
       <li><a href='https://github.com/frederictwc/HKPCFacialRecognition'>HKPCFacialRecognition</a></li>
       <li><a href='https://github.com/frederictwc/face_detection'>face_detection</a></li>
