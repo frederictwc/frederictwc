@@ -2,8 +2,6 @@
 
 Welcome to my profile. Listed below are all my Repos. Only public ones are viewable. 
 
-### organized by topic
-
 <details>
   <summary><strong style='font-size:2rem;'>Personal</strong></summary>
     <ul>
