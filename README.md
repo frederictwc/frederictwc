@@ -19,6 +19,7 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
 <details>
   <summary><strong style='font-size:2rem;'>Work</strong></summary>
     <ul>
+      <li><a href='https://github.com/frederictwc/HKPCDogDetectorUI'>HKPCDogDetectorUI</a></li>
       <li><a href='https://github.com/frederictwc/RTSPStreamer'>RTSPStreamer</a></li>
       <li><a href='https://github.com/frederictwc/HKPCDogDetector'>HKPCDogDetector</a></li>
       <li><a href='https://github.com/frederictwc/AIChallengeHKSTP'>AIChallengeHKSTP</a></li>
