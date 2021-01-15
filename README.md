@@ -19,7 +19,8 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
 </details>
 <details>
   <summary><strong style='font-size:2rem;'>Work</strong></summary>
-    <ul>
+    <ul> 
+      <li><a href='https://github.com/frederictwc/CopyrightScraper'>CopyrightScraper</a></li>
       <li><a href='https://github.com/frederictwc/MedicalImaging'>MedicalImaging</a></li>
       <li><a href='https://github.com/frederictwc/HKPCDogDetectorUI'>HKPCDogDetectorUI</a></li>
       <li><a href='https://github.com/frederictwc/RTSPStreamer'>RTSPStreamer</a></li>
