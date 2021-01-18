@@ -36,7 +36,7 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
       <li><a href='https://github.com/frederictwc/NvidiaDeepLearning'>NvidiaDeepLearning</a></li>
       <li><a href='https://github.com/frederictwc/embeddedaccesscontrol_new'>embeddedaccesscontrol_new</a></li>
       <li><a href='https://github.com/frederictwc/NanoDocker'>NanoDocker</a></li>
-      <li><a href='https://github.com/frederictwc/NvidiaDeepLearning'>light_rail_detection_system</a></li>
+      <li><a href='https://github.com/frederictwc/light_rail_lidar_system'>light_rail_lidar_system</a></li>
       <li><a href='https://github.com/frederictwc/DatasetGenerator'>DatasetGenerator</a></li>
       <li><a href='https://github.com/frederictwc/NetworkCameraReader'>NetworkCameraReader</a></li>
       <li><a href='https://github.com/frederictwc/CV2DNN'>CV2DNN</a></li>
