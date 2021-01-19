@@ -18,7 +18,7 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
       <li><a href='https://github.com/frederictwc/SportsCardsTrading'>SportsCardsTrading</a>: A sports cards trading model</li>
 </details>
 <details>
-  <summary><strong style='font-size:2rem;'>Work</strong></summary>
+  <summary><strong style='font-size:2rem;'>Other</strong></summary>
     <ul> 
       <li><a href='https://github.com/frederictwc/COVIDRapidTestClassifier'>COVIDRapidTestClassifier</a></li>
       <li><a href='https://github.com/frederictwc/CopyrightScraper'>CopyrightScraper</a></li>
