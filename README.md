@@ -20,7 +20,8 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
 <details>
   <summary><strong style='font-size:2rem;'>Other</strong></summary>
     <ul> 
-      #<li><a href='https://github.com/frederictwc/HumanDetector'>HumanDetector</a></li>
+      <!--
+      <li><a href='https://github.com/frederictwc/HumanDetector'>HumanDetector</a></li>
       <li><a href='https://github.com/frederictwc/COVIDRapidTestClassifier'>COVIDRapidTestClassifier</a></li>
       <li><a href='https://github.com/frederictwc/CopyrightScraper'>CopyrightScraper</a></li>
       <li><a href='https://github.com/frederictwc/MedicalImaging'>MedicalImaging</a></li>
@@ -47,6 +48,6 @@ Welcome to my profile. Listed below are all my Repos. Only public ones are viewa
       <li><a href='https://github.com/frederictwc/miscellaneous'>miscellaneous</a></li>
       <li><a href='https://github.com/frederictwc/streaming'>streaming</a></li>
       <li><a href='https://github.com/frederictwc/realsense'>realsense</a></li>
-      
+      -->
 </details>
 
